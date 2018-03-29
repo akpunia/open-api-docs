@@ -1,0 +1,22 @@
+{
+  "name": "open-platform",
+  "version": "1.0.0",
+  "description": "API for the OPEN Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chasesmith95/open-api-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chasesmith95/open-api-docs/issues"
+  },
+  "homepage": "https://github.com/chasesmith95/open-api-docs#readme",
+  "dependencies": {
+    "mocha": "^5.0.5"
+  }
+}
