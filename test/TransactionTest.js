@@ -1,7 +1,6 @@
 var assert = require('assert');
 
 var attributes =  {
-  "transaction_address": transaction_address,
   "userAddress": USER_ADDRESS,
   "scaffoldAddress": SCAFFOLD_ADDRESS,
   "product_sku": PRODUCT_SKU,

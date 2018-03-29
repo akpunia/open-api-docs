@@ -20,6 +20,6 @@ it('should be successfully created', function() {
 
 #Receipt can be verified
 
-  #No transaction address, unverified transaction userAddress
+  #No transaction address, unverified transaction userAddress, previous transaction Address
 
   #Wrong user (signing is incorrect)
