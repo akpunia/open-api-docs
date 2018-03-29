@@ -4,8 +4,7 @@ var attributes =  {
   "userAddress": USER_ADDRESS,
   "scaffoldAddress": SCAFFOLD_ADDRESS,
   "transaction address": TRANSACTION address,
-  "signed_information": SIGNED_INFORMATION,
-  "encrypted_information": encrypted_information
+  "signed_information": SIGNED_INFORMATION
   };
 
 #Receipt can be created
